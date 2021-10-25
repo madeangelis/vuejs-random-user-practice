@@ -1,2 +1,1 @@
-# vuejs-random-user-practice
-Learning vuejs
+# vue-random-user-practice
